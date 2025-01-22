@@ -4,7 +4,7 @@
 
 ![Apache 2.0 License](https://img.shields.io/badge/License-Apache2.0-orange)
 ![Java](https://img.shields.io/badge/Built_with-Java-blue)
-![Maven](https://img.shields.io/badge/Powered_by-Maven-green)
+![Junit](https://img.shields.io/badge/Powered_by-Junit-green)
 
 Object orientation concepts: Polymorphism.
 
@@ -19,4 +19,4 @@ Object orientation concepts: Polymorphism.
 ## License
 
 - This project is released under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
-- Copyright © 2019 [Wallace Espindola](https://github.com/wallaceespindola/).
+- Copyright © 2017 [Wallace Espindola](https://github.com/wallaceespindola/).
